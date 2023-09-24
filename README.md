@@ -22,3 +22,4 @@ While the intent is to develop a device consisting of exclusively COTS component
 * [10,000mah Battery](https://www.amazon.com/INIU-Portable-High-Speed-Flashlight-Compatible/dp/B08MZG8TN8) or similar
 * [Kapton Tape](https://www.amazon.com/Temperature-Kapton-Professional-Protecting-Circuit/dp/B07RZZG76B)
 * [USB Cellular Modem](https://www.waveshare.com/product/sim7600a-h-4g-dongle.htm)
+* [USB-C Hub](https://www.amazon.com/Portable-Splitter-Multiport-Charging-Keyboard/dp/B0C157TZXB)
