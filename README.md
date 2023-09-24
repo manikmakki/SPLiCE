@@ -24,3 +24,5 @@ While the intent is to develop a device consisting of exclusively COTS component
 * [USB Cellular Modem](https://www.waveshare.com/product/sim7600a-h-4g-dongle.htm)
 * [USB-C Hub](https://www.amazon.com/Portable-Splitter-Multiport-Charging-Keyboard/dp/B0C157TZXB)
 * [USB Microphone](https://www.amazon.com/Mini-Microphone-Skype-Desktop-Laptop/dp/B076BC2Y3W)
+* [USB Camera + Mic](https://www.amazon.com/dp/B0BWS4R1BH) **Possible?**
+
